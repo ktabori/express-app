@@ -1,0 +1,33 @@
+{
+  "name": "bootstrap-express",
+  "version": "0.0.1",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "bootstrap",
+    "express",
+    "stylus",
+    "coffee",
+    "jade"
+  ],
+  "engines": {
+    "node": "0.10.x"
+  },
+  "author": "Krisztian Tabori",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.6.5",
+    "coffee-script": "^1.7.1",
+    "connect-assets": "^4.3.0",
+    "express": "^4.8.5",
+    "glob": "^4.0.5",
+    "jade": "^1.5.0",
+    "less": "^2.4.0",
+    "nib": "^1.0.3",
+    "request": "^2.53.0",
+    "stylus": "^0.48.1"
+  }
+}

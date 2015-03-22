@@ -1,0 +1,19 @@
+{
+  "verbose": false,
+  "restartable": "rs",
+  "watch": [
+    "./",
+    "./pages",
+    "./public",
+    "./views",
+    "./vendor"
+  ],
+  "ignore": [
+    "build",
+    "assets"
+  ],
+  "env": {
+    "NODE_ENV": "development"
+  },
+  "ext": "js json yaml coffee md styl jade"
+}
